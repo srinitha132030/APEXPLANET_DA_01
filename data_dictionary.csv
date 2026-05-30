@@ -1,0 +1,7 @@
+Column Name,Data Type,Description
+CustomerID,Integer,Unique identifier for each customer
+Gender,String,Gender of the customer
+Age,Integer,Age of the customer
+Annual Income (k$),Integer,Annual income in thousand dollars
+Spending Score (1-100),Integer,Customer spending score
+Age_Group,String,Derived age category
